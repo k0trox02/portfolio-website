@@ -15,10 +15,10 @@
     + Data Science Projects
     + Open Source Contributions
     + Kaggle/Hackathon/ Other Competition Rankings
+    + Contact form
 4.  Resume:
     + HTML constructed Resume
     + Option to download resume
-    + Contact form
 5.  Interactive Resources:
     + Chatbot for data analytics knowledge
     + Importance of Visualization
